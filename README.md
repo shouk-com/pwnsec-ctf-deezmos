@@ -21,5 +21,8 @@ Finally the flag is PWNSEC{ART_FOR_NERDS}
 
 Last S is messed up for some reason I did not investigate.
 
+## Run it for yourself
+Clone this repo and run `solution.py`. Copy the output from the terminal and paste it on https://www.desmos.com/calculator.
+
 ## Remarks
 This was my first CTF in a while and my very first write up for one as well and, the little time I spent on it i enjoyed immensely. I secured the first blood for this question and failed to solve any more. But now my rustiness has improved look forward for more to come.
